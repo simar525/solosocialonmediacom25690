@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://socialonmedia.com/pagetest/$1"
+ }
+  ]
+}
